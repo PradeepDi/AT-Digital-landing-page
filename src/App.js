@@ -89,11 +89,15 @@ function App() {
         <h3>Frequently Asked Questions</h3>
         <details>
           <summary>Lorem ipsum dolor sit amet consectetur. Leo at sit eu libero?</summary>
-          <p>Faucibus commodo suscipit id ipsum. Elementum ultrices nulla faucibus odio.</p>
+          <p>Faucibus commodo suscipit id ipsum. Elementum ultrices nulla faucibus odio. Faucibus commodo suscipit id ipsum. Elementum ultrices nulla faucibus odio. Faucibus commodo suscipit id ipsum. Elementum ultrices nulla faucibus odio.Faucibus commodo suscipit id ipsum. Elementum ultrices nulla faucibus odio.</p>
         </details>
         <details>
           <summary>Lorem ipsum dolor sit amet consectetur. Tortor scelerisque integer?</summary>
-          <p>Faucibus scelerisque nunc? Sapien massa morbi risus sagittis tortor integer.</p>
+          <p>Faucibus scelerisque nunc? Sapien massa morbi risus sagittis tortor integer. Faucibus scelerisque nunc? Sapien massa morbi risus sagittis tortor integer.Faucibus scelerisque nunc? Sapien massa morbi risus sagittis tortor integer.Faucibus scelerisque nunc? Sapien massa morbi risus sagittis tortor integer.</p>
+        </details>
+        <details>
+          <summary>Lorem ipsum dolor sit amet consectetur. Tortor scelerisque integer?</summary>
+          <p>Faucibus scelerisque nunc? Sapien massa morbi risus sagittis tortor integer. Faucibus scelerisque nunc? Sapien massa morbi risus sagittis tortor integer.Faucibus scelerisque nunc? Sapien massa morbi risus sagittis tortor integer.Faucibus scelerisque nunc? Sapien massa morbi risus sagittis tortor integer.</p>
         </details>
       </section>
 

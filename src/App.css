@@ -97,7 +97,6 @@ body {
   transition: 0.3s ease-in-out;
 }
 
-/* Tablet styles */
 @media (max-width: 768px) {
   .navbar {
     padding: 15px 20px;
@@ -158,6 +157,7 @@ body {
   height: 700px;
   display: flex;
   align-items: center;
+  margin-bottom: 40px;
 }
 
 .hero::before {
@@ -395,13 +395,13 @@ body {
   justify-content: center;
 }
 
-/* Responsive */
 /* Mobile styles */
 @media (max-width: 375px) {
   .navbar {
     padding: 15px 20px;
     height: 85px;
     max-width: 375px;
+    width: 100%;
   }
   
   .logo img {
