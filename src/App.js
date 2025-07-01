@@ -8,7 +8,6 @@ import digitalStrategyImage from "./images/image 1.png";
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
   
-  // Handle body overflow when menu is open
   React.useEffect(() => {
     if (menuOpen) {
       document.body.style.overflow = 'hidden';
