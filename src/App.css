@@ -1,15 +1,14 @@
-/* App.css */
 
 :root {
-  --primary: #5B3CC4;         /* Bluish Purple */
-  --secondary: #F27E3C;       /* Orange */
-  --dark: #2F2F2F;            /* Tricorn Black */
-  --light: #9C9991;           /* Acier */
-  --accent-bg: #5B3CC4;       /* Bluish Purple */
+  --primary: #5B3CC4;        
+  --secondary: #F27E3C;       
+  --dark: #2F2F2F;           
+  --light: #9C9991;           
+  --accent-bg: #5B3CC4;       
   --font-color: #2F2F2F;
   --font-light: #9C9991;
   --font-family: 'Segoe UI', sans-serif;
-  --footer-bg: #5B3CC4;       /* Bluish Purple */
+  --footer-bg: #5B3CC4;      
 }
 
 body {
@@ -76,7 +75,6 @@ body {
   transition: 0.4s;
 }
 
-/* Hamburger animation when menu is open */
 .hamburger.active .bar:nth-child(1) {
   transform: rotate(-45deg) translate(-5px, 6px);
 }
@@ -89,7 +87,6 @@ body {
   transform: rotate(45deg) translate(-5px, -6px);
 }
 
-/* Backdrop overlay for mobile menu */
 .backdrop {
   position:absolute;
   top: 0;
@@ -155,8 +152,9 @@ body {
   position: relative;
   padding: 0;
   background-image: url('./images/andy-kelly-0E_vhMVqL9g-unsplash 2.png');
-  background-size: cov;
+  background-size: cover;
   background-position: center;
+  top:140px;
   height: 700px;
   display: flex;
   align-items: center;
@@ -320,7 +318,6 @@ body {
   content: '-';
 }
 
-/* Change summary and paragraph color when FAQ is open */
 .faq details[open] > summary {
   color: #4F46E5;
 }
